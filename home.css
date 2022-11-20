@@ -47,6 +47,7 @@ ul li::before {
 }
 
 .centerbutton {
+    color: #ffffff;
     text-align:center;
 
 }
